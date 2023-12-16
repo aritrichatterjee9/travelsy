@@ -1,6 +1,6 @@
 # travelsy
 
-private repo: deployed in vercel : 
+private repo: deployed in vercel : Deployed in https://travelsy3.vercel.app/ 
 
 ![image](https://github.com/aritrichatterjee9/travelsy033-main/assets/73156770/b03ca7e9-e625-4f2d-908b-6f344bbfc0ca)
 
