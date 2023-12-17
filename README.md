@@ -2,16 +2,16 @@
  
 private repo: deployed in vercel : Deployed in https://travelsy3.vercel.app/ 
 
-![image](https://github.com/aritrichatterjee9/travelsy033-main/assets/73156770/b03ca7e9-e625-4f2d-908b-6f344bbfc0ca)
 
-Deployed in https://travelsy3.vercel.app/ 
+Deployed in https://travelsy3.vercel.app/  
+
+![image](https://github.com/aritrichatterjee9/travelsy/assets/73156770/2c22df23-1c48-4fd0-80df-a0cb6b7fc6ac)
+![image](https://github.com/aritrichatterjee9/travelsy033-main/assets/73156770/b03ca7e9-e625-4f2d-908b-6f344bbfc0ca)
+![image](https://github.com/aritrichatterjee9/travelsy/assets/73156770/d7b23c0d-96b1-4843-a2d4-bdf91217530f)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![image](https://github.com/aritrichatterjee9/travelsy033-main/assets/73156770/8dbf13ae-a113-40db-992f-b8b48cb2cb45)
-
-![image](https://github.com/aritrichatterjee9/travelsy033-main/assets/73156770/9efd8e69-bc7d-4df1-8514-7b54be7ca063)
 
 
 
