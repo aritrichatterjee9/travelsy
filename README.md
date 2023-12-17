@@ -5,6 +5,8 @@ private repo: deployed in vercel : Deployed in https://travelsy3.vercel.app/
 
 Deployed in https://travelsy3.vercel.app/  
 
+![image](https://github.com/aritrichatterjee9/travelsy/assets/73156770/aeb311f3-7787-4ccc-803c-486ec38c4a8a)
+
 ![image](https://github.com/aritrichatterjee9/travelsy/assets/73156770/2c22df23-1c48-4fd0-80df-a0cb6b7fc6ac)
 ![image](https://github.com/aritrichatterjee9/travelsy/assets/73156770/d7b23c0d-96b1-4843-a2d4-bdf91217530f)
 
